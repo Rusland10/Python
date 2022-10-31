@@ -19,5 +19,4 @@ else:
             day = 1
         else:
             day += 1
-
 print(f'{day}-{month}-2022')
