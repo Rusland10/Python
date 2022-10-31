@@ -1,2 +1,2 @@
-num = int(input())
-print((num // 10) // 10 + (num // 10) % 10 + num % 10)
+number = int(input())
+print((number // 10) // 10 + (number // 10) % 10 + number % 10)
