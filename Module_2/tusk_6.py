@@ -1,3 +1,3 @@
-num_float = float(input())
-num = int(num_float)
-print(int((num_float - num) * 10))
+number_float = float(input())
+number = int(number_float)
+print(int((number_float - number) * 10))

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1e5b9d-529d-4323-b703-95c31a52389e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Module_2/tusk_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_2/tusk_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_2/tusk_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_2/tusk_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -386,7 +386,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667244546084</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="new">
+      <created>1667244701236</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1667244701236</updated>
+    </task>
+    <task id="LOCAL-00029" summary="new">
+      <created>1667244846914</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1667244846914</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
