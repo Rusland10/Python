@@ -1,4 +1,4 @@
-s = int(input())
-s1 = s % 10
-s2 = s // 10
-print(s1, s2)
+a = int(input())
+a1 = a % 10
+a2 = a // 10
+print(a1, a2)
