@@ -1,3 +1,3 @@
-num = int(input())
-num = num % 100
-print(num)
+number = int(input())
+number = number % 100
+print(number)
