@@ -1,8 +1,8 @@
-stroka = input()
-print(stroka[2])
-print(stroka[len(stroka) - 1])
+str = input()
+print(str[2])
+print(str[len(str) - 1])
 for i in range(0, 5):
-    print(stroka[i], end='')
+    print(str[i], end='')
 print('\n')
 for i in range(0, len(str) - 2):
     print(str[i], end='')
