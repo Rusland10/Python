@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a1e5b9d-529d-4323-b703-95c31a52389e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module_6/task_1.py" afterDir="false" />
-    </list>
+    <list default="true" id="3a1e5b9d-529d-4323-b703-95c31a52389e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,13 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663024419685</updated>
-    </task>
-    <task id="LOCAL-00012" summary="new">
-      <created>1667139565467</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1667139565467</updated>
     </task>
     <task id="LOCAL-00013" summary="new">
       <created>1667139869587</created>
@@ -544,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667418968566</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="new">
+      <created>1667419807162</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1667419807162</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
