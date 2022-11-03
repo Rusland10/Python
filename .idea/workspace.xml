@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1e5b9d-529d-4323-b703-95c31a52389e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Paradox/Dni_Rozhdeniya.py" beforeDir="false" afterPath="$PROJECT_DIR$/Paradox/Dni_Rozhdeniya.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,34 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663024419685</updated>
-    </task>
-    <task id="LOCAL-00027" summary="new">
-      <created>1667244546084</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1667244546084</updated>
-    </task>
-    <task id="LOCAL-00028" summary="new">
-      <created>1667244701236</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1667244701236</updated>
-    </task>
-    <task id="LOCAL-00029" summary="new">
-      <created>1667244846914</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1667244846914</updated>
-    </task>
-    <task id="LOCAL-00030" summary="new">
-      <created>1667245074963</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1667245074963</updated>
     </task>
     <task id="LOCAL-00031" summary="new">
       <created>1667245197789</created>
@@ -544,7 +516,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667484071728</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="new">
+      <created>1667484123739</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1667484123739</updated>
+    </task>
+    <task id="LOCAL-00077" summary="new">
+      <created>1667484224507</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1667484224507</updated>
+    </task>
+    <task id="LOCAL-00078" summary="new">
+      <created>1667484314783</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1667484314783</updated>
+    </task>
+    <task id="LOCAL-00079" summary="new">
+      <created>1667484338037</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1667484338037</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
