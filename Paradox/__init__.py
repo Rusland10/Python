@@ -1,26 +1,16 @@
 import random
-def birthday(people_counter, iteration):
-    days = [day for day in range(0, 29)]
-    months = [month for month in range(0, 13)]
+def MontyHall(count_iter):
     count = 0
-    count_not = 0
-    for iterations in range(0, iteration+1):
-        l1 = []
-        l2 = []
-        for i in range(0, people_counter+1):
-            l1.append(random.choice(days))
-            l2.append(random.choice(months))
-        for i in range(0, people_counter+1):
-            if l1.count(l1[i]) == 1 or l2.count(l2[i]) == 1:
-                count_not += 1
-                pass
-            for j in range(0, people_counter+1):
-                if j == i:
-                    pass
-                if l1[j] == l1[i] and l2[j] == l2[i]:
-                    count += 1
-    return f"количество совпадений: {count} \n" \
-           f"количество промахов: {count_not} \n" \
-           f"вероятность совпадения: {(count * 100) / (count_not + count)}"
-if __name__ == "__main__":
-    print(birthday(23, 10000))
+    count_choice = 0
+    for i in range(0, count_iter):
+        a = [0, 0, 1]
+        player_choice = random.choice(a)
+        if player_choice == 1:
+            count += 1
+        else:
+            a.remove(0)
+            a.remove(player_choice)
+            if a[0] == 1:
+                count_choice += 1
+    return f'количество не меняя выбор: {count} количество поменяв выбор: {count_choice} вероятность выиграша ' \
+           f'при своем выборе: {(count * 100) / (count + count_choice)} '
