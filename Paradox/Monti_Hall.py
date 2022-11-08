@@ -1,5 +1,5 @@
 import random
-def MontyHall(count_iter):
+def MontyHall(count, iter):
     count = 0
     count_choice = 0
     for i in range(0, count_iter):
