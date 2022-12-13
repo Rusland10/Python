@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1e5b9d-529d-4323-b703-95c31a52389e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practical_work/Pole_Chudes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_work/Pole_Chudes/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polechudes/file_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/polechudes/file_read.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,13 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663024419685</updated>
-    </task>
-    <task id="LOCAL-00044" summary="new">
-      <created>1667246152003</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1667246152003</updated>
     </task>
     <task id="LOCAL-00045" summary="new">
       <created>1667246649701</created>
@@ -545,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670927006884</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="new">
+      <created>1670928015656</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1670928015656</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
