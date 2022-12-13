@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1e5b9d-529d-4323-b703-95c31a52389e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module_7/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical_work/Pole_Chudes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_work/Pole_Chudes/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,34 +201,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663024419685</updated>
-    </task>
-    <task id="LOCAL-00040" summary="new">
-      <created>1667245894470</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1667245894470</updated>
-    </task>
-    <task id="LOCAL-00041" summary="new">
-      <created>1667245964757</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1667245964757</updated>
-    </task>
-    <task id="LOCAL-00042" summary="new">
-      <created>1667245997053</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1667245997053</updated>
-    </task>
-    <task id="LOCAL-00043" summary="new">
-      <created>1667246049974</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1667246049974</updated>
     </task>
     <task id="LOCAL-00044" summary="new">
       <created>1667246152003</created>
@@ -544,7 +517,35 @@
       <option name="project" value="LOCAL" />
       <updated>1670926704252</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="new">
+      <created>1670926794704</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1670926794704</updated>
+    </task>
+    <task id="LOCAL-00090" summary="new">
+      <created>1670926897112</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1670926897112</updated>
+    </task>
+    <task id="LOCAL-00091" summary="new">
+      <created>1670926953734</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1670926953734</updated>
+    </task>
+    <task id="LOCAL-00092" summary="new">
+      <created>1670927006884</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1670927006884</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
