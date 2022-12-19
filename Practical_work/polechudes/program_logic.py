@@ -42,9 +42,6 @@ def game():
         if point > rec:
             writed(str(point))
         print(f'Игра окончена. Ваш результат: {point}.')
-
-
 rec = records()
 point: int = 0
-
 game()
