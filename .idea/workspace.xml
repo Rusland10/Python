@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1e5b9d-529d-4323-b703-95c31a52389e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practical_work/polechudes/slova" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical_work/polechudes/record" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_work/polechudes/record" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
       <recent name="F:\python задачки" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Руслан\PycharmProjects\Python\Practical_work" />
       <recent name="C:\Users\Руслан\PycharmProjects\1" />
       <recent name="C:\Users\Руслан\PycharmProjects\1\tasks" />
     </key>
@@ -200,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663024419685</updated>
-    </task>
-    <task id="LOCAL-00056" summary="new">
-      <created>1667253748412</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1667253748415</updated>
     </task>
     <task id="LOCAL-00057" summary="new">
       <created>1667254293132</created>
@@ -544,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671463748779</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="new">
+      <created>1671466049626</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1671466049626</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -567,7 +569,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/polechudes/file_read.py</url>
+          <url>file://$PROJECT_DIR$/Practical_work/polechudes/file_read.py</url>
           <line>1</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
