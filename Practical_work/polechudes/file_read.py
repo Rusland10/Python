@@ -1,4 +1,4 @@
-''' text = open("slova.txt", encoding="utf-8")
+''' text = open("slova.txt.txt", encoding="utf-8")
 text = text.read()
 print(*text.title().split('\n'))
 '''
@@ -8,7 +8,7 @@ def slova() -> str:
     '''
     :return: Строка - рандомное слово из списка, которое надо угадать.
     '''
-    with open(r'polechudes/slova.txt', encoding='UTF8') as sl:
+    with open(r'polechudes/slova.txt.txt', encoding='UTF8') as sl:
         return random.choice(sl.read().splitlines()).lower()
 def records() -> int:
     '''
