@@ -1,7 +1,7 @@
 import pymorphy2
 import re
 from translate import Translator
-with open(r"C:\Users\nikita\Downloads\633740083-dialog.html", encoding='utf8') as f:
+with open(r"C:\Users\Руслан\Downloads\Telegram Desktop\dialog-681583815.html", encoding='utf8') as f:
     rez = f.read()
 pattern = r'(?:class=\"msg-body\">)([^<+]+)(?:</p>)'
 match = re.findall(pattern, rez)
