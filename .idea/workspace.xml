@@ -2,9 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1e5b9d-529d-4323-b703-95c31a52389e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Practical_work/polechudes/file_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_work/polechudes/file_read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practical_work/polechudes/record" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_work/polechudes/record.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practical_work/polechudes/slova" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_work/polechudes/slova.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_2/tusk_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_2/tusk_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_2/tusk_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_2/tusk_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_2/tusk_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_2/tusk_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_2/tusk_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_2/tusk_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_2/tusk_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_2/tusk_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_2/tusk_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_2/tusk_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_2/tusk_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_2/tusk_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_2/tusk_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_2/tusk_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_2/tusk_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_2/tusk_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_2/tusk_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_2/tusk_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_3/tusk_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_3/tusk_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_3/tusk_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_3/tusk_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_3/tusk_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_3/tusk_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_3/tusk_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_3/tusk_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_3/tusk_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_3/tusk_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_4/tusk_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_4/tusk_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_5/tusk_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_5/tusk_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_5/tusk_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_5/tusk_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_5/tusk_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_5/tusk_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_5/tusk_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_5/tusk_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_5/tusk_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_5/tusk_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_5/tusk_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_5/tusk_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_5/tusk_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_5/tusk_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_5/tusk_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_5/tusk_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_6/task_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_6/task_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_7/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_7/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_7/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_7/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_7/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_7/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_7/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_7/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_7/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_7/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_7/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_7/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_7/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Module_7/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical_work/polechudes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_work/Practical-work №3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical_work/polechudes/file_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_work/Practical-work №3/file_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical_work/polechudes/program_logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_work/Practical-work №3/program_logic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical_work/polechudes/record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_work/Practical-work №3/record.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practical_work/polechudes/slova.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_work/Practical-work №3/slova.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/module_1/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/module_1/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/module_1/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/module_1/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/module_1/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/tusk_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/module_1/tusk_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_1/tusk_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/module_1/tusk_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +122,7 @@
       <recent name="C:\Users\Руслан\PycharmProjects\1\tasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_10">
+  <component name="RunManager" selected="Python.task_1">
     <configuration name="2" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true">
       <module name="1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Workig with errors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practical_work/Practical_work №5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practical_work/Practical_work №5/Workig with errors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_1/task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_1" />
         <item itemvalue="Python.task_10" />
         <item itemvalue="Python.Final work" />
         <item itemvalue="Python.Practical_work №4" />
         <item itemvalue="Python.task_2" />
-        <item itemvalue="Python.Workig with errors" />
       </list>
     </recent_temporary>
   </component>
@@ -203,20 +267,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663024419685</updated>
-    </task>
-    <task id="LOCAL-00058" summary="new">
-      <created>1667418572852</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1667418572853</updated>
-    </task>
-    <task id="LOCAL-00059" summary="new">
-      <created>1667418650483</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1667418650483</updated>
     </task>
     <task id="LOCAL-00060" summary="new">
       <created>1667418968566</created>
@@ -547,7 +597,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671466278640</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="new">
+      <created>1671466981724</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1671466981724</updated>
+    </task>
+    <task id="LOCAL-00108" summary="new">
+      <created>1671467176102</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1671467176102</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -570,7 +634,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Practical_work/polechudes/file_read.py</url>
+          <url>file://$PROJECT_DIR$/Practical_work/Practical-work №3/file_read.py</url>
           <line>1</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
