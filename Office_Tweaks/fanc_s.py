@@ -2,12 +2,8 @@ import os
 from docx2pdf import convert
 from pdf2docx import parse
 from PIL import Image
-
-
 def start_directory():  # path
     return os.getcwd()
-
-
 def list_file(*args):
     files = []
     files_c = []
@@ -17,8 +13,6 @@ def list_file(*args):
     for filename in enumerate(files, start=1):
         files_c.append(filename)
     return files_c
-
-
 def menu():
     menu = [
             '1. Удалить все файлы начинающиеся на определенную подстроку',
@@ -33,16 +27,12 @@ def menu():
     while input_user not in list_command:
         input_user = int(input())
     return input_user
-
-
 def directory():  # 0
     n = input('Введите путь: ')
     while n == '':
         n = input('Введите путь: ')
     os.chdir(n)
     return 'Успех'
-
-
 def p2d():  # 1
     for i in list_file('pdf'):
         print(*i)
@@ -54,8 +44,6 @@ def p2d():  # 1
                 return 'Успех'
     else:
         return
-
-
 def d2p():  # 2
     for i in list_file('docx', 'doc'):
         print(*i)
@@ -67,8 +55,6 @@ def d2p():  # 2
                 return 'Успех'
     else:
         return
-
-
 def compression():  # 3
     for i in list_file('png', 'jpg', 'gif'):
         print(*i)
@@ -81,8 +67,6 @@ def compression():  # 3
                 return 'Успех'
     else:
         return
-
-
 def delite_file_menu():  # 4
     c_fanc = menu()
     if c_fanc == 1:
@@ -95,13 +79,9 @@ def delite_file_menu():  # 4
         print(del_extension())
     else:
         print(del_file())
-
-
 def delite_file():
     for i in list_file(''):
         print(*i)
-
-
 def del_start():
     delite_file()
     contecst = input('Введите подстроку: ')
@@ -109,8 +89,6 @@ def del_start():
         if i[1].startswith(contecst):
             os.remove(i[1])
     return 'Успех'
-
-
 def del_end():
     delite_file()
     contecst = input('Введите подстроку: ')
@@ -124,8 +102,6 @@ def del_end():
         return
         # pattern = fr'({contecst})(?:\.\w+)'
         # match = re.findall(pattern, ' '.join(i for i in sp_pattern)
-
-
 def del_middle():
     delite_file()
     contecst = input()
@@ -136,8 +112,6 @@ def del_middle():
         return 'Успех'
     else:
         return
-
-
 def del_extension():
     delite_file()
     extension = input('Введите расширение: ')
@@ -148,8 +122,6 @@ def del_extension():
         return 'Успех'
     else:
         return
-
-
 def del_file():
     delite_file()
     n = int(input('Выберите файл: '))
