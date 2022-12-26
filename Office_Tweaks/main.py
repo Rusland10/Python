@@ -1,6 +1,4 @@
 from fanc_s import *
-
-
 def start():
     while True:
         menu = ['0. Сменить рабочий каталог', '1. Преобразовать PDF в Docx', '2. Преобразовать Docx в PDF',
@@ -23,6 +21,4 @@ def start():
             delite_file_menu()
         else:
             return 'Досвидания'
-
-
 print(start())
